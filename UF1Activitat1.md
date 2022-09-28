@@ -26,8 +26,22 @@ Tot i que el seu punt fort és la programació orientada a objectes també es po
 
 Avantatges:
 
-És un llenguatge fàcil d'utilitzar i aprendre.
-És un llenguatge de propòsit general.
+1.És un llenguatge fàcil d'utilitzar i aprendre.
+
+2.És un llenguatge de propòsit general.
+
+3.És compatible amb tots els sistemes operatius.
+
+4.És gratuit i de codi obert.
+
+Inconvenients:
+
+1.Consumeix molta memòria.
+
+2.No es adecuat per al desenvolupament en dispositius mòvils.
+
+3.És lent.
+
 
 
 • Principals entorns on es fa servir el llenguatge. 
