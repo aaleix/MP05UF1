@@ -27,6 +27,7 @@ Tot i que el seu punt fort és la programació orientada a objectes també es po
 Avantatges:
 
 -És un llenguatge fàcil d'utilitzar i aprendre.
+
 -És un llenguatge de propòsit general.
 -
 
