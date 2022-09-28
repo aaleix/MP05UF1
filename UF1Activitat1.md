@@ -42,13 +42,15 @@ Inconvenients:
 
 3.És lent.
 
-
-
 • Principals entorns on es fa servir el llenguatge. 
+
+
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
+
+`code`
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
