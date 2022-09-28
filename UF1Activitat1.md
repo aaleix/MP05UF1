@@ -50,7 +50,7 @@ Inconvenients:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-`code`
+`code`a
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
