@@ -3,6 +3,7 @@ Activitat de recerca de llenguatges de programació
 • Naixement, creadors i evolució històrica.
 
 • Característiques del llenguatge. 
+
 ◦ Imperatiu, declaratiu, OOP…
  
 ◦ Compilat, interpretat, híbrid…
@@ -21,6 +22,7 @@ Activitat de recerca de llenguatges de programació
 • Buscar com estan les ofertes de treball a Infojobs del llenguatge.
  
 • WebGrafia 
+
 [HelloWorldPython](https://www.learnpython.org/en/Hello,_World!) 
 
 Python:
