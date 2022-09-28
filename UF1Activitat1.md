@@ -50,7 +50,10 @@ Inconvenients:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-`code`a
+`code`x = 1
+if x == 1:
+    # indented four spaces
+    print("Hola mòn")
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
