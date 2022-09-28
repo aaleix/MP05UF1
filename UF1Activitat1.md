@@ -127,7 +127,7 @@ Inconvenients:
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
-
+Al igual que en Python hi ha un gran nombre d'ofertes de feina.
 
 ### • WebGrafia
 
