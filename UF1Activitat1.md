@@ -28,7 +28,7 @@ Avantatges:
 
 És un llenguatge fàcil d'utilitzar i aprendre.
 És un llenguatge de propòsit general.
--
+
 
 • Principals entorns on es fa servir el llenguatge. 
 
