@@ -58,6 +58,8 @@ Inconvenients:
 
 • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
+He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar amb Python.
+
 • WebGrafia 
 
 [HelloWorldPython](https://www.learnpython.org/en/Hello,_World!) 
