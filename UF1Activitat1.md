@@ -66,9 +66,9 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 ## Java:
 
-• Naixement, creadors i evolució històrica. 
+### • Naixement, creadors i evolució històrica. 
 
-• Característiques del llenguatge. 
+### • Característiques del llenguatge. 
 
 ◦ Imperatiu, declaratiu, OOP... 
 
@@ -78,23 +78,23 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
-• Principals entorns on es fa servir el llenguatge. 
+### • Principals entorns on es fa servir el llenguatge. 
 
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
+### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
-• WebGrafia
+### • WebGrafia
 
 ## C:
 
-• Naixement, creadors i evolució històrica. 
+### • Naixement, creadors i evolució històrica. 
 
-• Característiques del llenguatge. 
+### • Característiques del llenguatge. 
 
 ◦ Imperatiu, declaratiu, OOP... 
 
@@ -104,23 +104,23 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
-• Principals entorns on es fa servir el llenguatge. 
+### • Principals entorns on es fa servir el llenguatge. 
 
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
+### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
-• WebGrafia 
+### • WebGrafia 
 
 ## Go:
 
-• Naixement, creadors i evolució històrica. 
+### • Naixement, creadors i evolució històrica. 
 
-• Característiques del llenguatge. 
+### • Característiques del llenguatge. 
 
 ◦ Imperatiu, declaratiu, OOP... 
 
@@ -130,15 +130,15 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
-• Principals entorns on es fa servir el llenguatge. 
+### • Principals entorns on es fa servir el llenguatge. 
 
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
+### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
-• WebGrafia 
+### • WebGrafia 
 
