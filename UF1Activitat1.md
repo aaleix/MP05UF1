@@ -71,6 +71,10 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 ### • Naixement, creadors i evolució històrica. 
 
+Java va apareixer per primer cop al 1996, el seu creador va ser James Gosling.
+
+![alt text](gosling.jpg) 
+
 ### • Característiques del llenguatge. 
 
 ◦ Imperatiu, declaratiu, OOP... 
