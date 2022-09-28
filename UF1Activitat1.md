@@ -6,7 +6,7 @@
 
 • Naixement, creadors i evolució històrica.
 
-
+Python va apareixer per primer cop al 1991 i va ser creat per Guido van Rossum. 
  
 • Característiques del llenguatge. 
 
@@ -52,7 +52,9 @@ Inconvenients:
 
 `code` print("Hola mòn")
 
-◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
+◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
+
+`code` 
 
 • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
