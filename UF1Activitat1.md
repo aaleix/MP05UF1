@@ -73,7 +73,7 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 Java va apareixer per primer cop al 1996, el seu creador va ser James Gosling.
 
-![alt text](gosling.jpg) 
+![alt text](gosling2.jpg) 
 
 ### • Característiques del llenguatge. 
 
