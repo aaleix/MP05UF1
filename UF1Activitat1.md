@@ -1,4 +1,4 @@
-#Activitat de recerca de llenguatges de programació
+# Activitat de recerca de llenguatges de programació
 
 
 Python:
