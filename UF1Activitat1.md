@@ -52,11 +52,12 @@ Inconvenients:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-`code` print("Hola mòn")
+`code` print("Hola mòn");
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-`code` 
+`code` nom=imput ("Quin es el teu nom?); print("hola "+ nom)
+
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
