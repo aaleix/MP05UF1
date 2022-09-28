@@ -131,11 +131,11 @@ Al igual que en Python hi ha un gran nombre d'ofertes de feina.
 
 ### • WebGrafia
 
-[Ventatges i inconvenients 1](https://darabit.com/java/ventajas-y-desventajas-de-java/)
+[Avantatges i inconvenients 1](https://darabit.com/java/ventajas-y-desventajas-de-java/)
 
-[Ventatges i inconvenients 2](https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-java/)
+[Avantatges i inconvenients 2](https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-java/)
 
-[Ventatges i inconvenients 3](https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html#:~:text=Ventajas%20y%20desventajas%20de%20programar%20en%20JAVA%201,el%20responsable%20de%20esa%20tarea.%20...%20M%C3%A1s%20elementos)
+[Avantatges i inconvenients 3](https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html#:~:text=Ventajas%20y%20desventajas%20de%20programar%20en%20JAVA%201,el%20responsable%20de%20esa%20tarea.%20...%20M%C3%A1s%20elementos)
 
 [HelloWorldJava](https://www.programiz.com/java-programming/hello-world)
 
@@ -151,23 +151,64 @@ El llenguatge C va aparèixer per primer cop al 1972 i va ser creat per Dennis R
 
 ◦ Imperatiu, declaratiu, OOP... 
 
-◦ Compilat, interpretat, híbrid... 
+És un llenguatge imperatiu.
+
+◦ Compilat, interpretat, híbrid...
+
+És un llenguatge compilat.
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
+-------------------------------------------
+
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
+Avantatges:
+
+1.És un llenguatge òptim i veloç.
+
+2.Permet programar amb multiples estils.
+
+3.Conjunt reduït de paraules claus.
+
+Inconvenients:
+
+1.El software pot ser lent si no s'utilitzen els punters de forma correcta.
+
+2.No es un llenguatge visual.
+
 ### • Principals entorns on es fa servir el llenguatge. 
+
+-----------------------------------------
 
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
+`code`#include <stdio.h>
+int main() {
+
+   printf("Hello, World!");
+   return 0;
+}
+
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
+
+`code`
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
+Totes les ofertes que trobo al Infojobs són de C# o C++.
+
 ### • WebGrafia 
+
+[Que es C](https://openwebinars.net/blog/que-es-c/)
+
+[Avantatges i inconvenients](https://sites.google.com/site/libreoficecalsk/home/desventajas)
+
+[Avantatges i inconvenients](https://gigatecno.blogspot.com/2014/05/ventajas-y-desventajas-de-programar-en-c.html)
+
+[HelloWorldC](https://www.programiz.com/c-programming/examples/print-sentence) 
 
 ## Go:
 
