@@ -16,9 +16,19 @@ Tot i que el seu punt fort és la programació orientada a objectes també es po
 
 ◦ Compilat, interpretat, híbrid... 
 
+És un llenguatge interpretat.
+
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
+
+
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
+
+Avantatges:
+
+-És un llenguatge fàcil d'utilitzar i aprendre.
+-És un llenguatge de propòsit general.
+-
 
 • Principals entorns on es fa servir el llenguatge. 
 
