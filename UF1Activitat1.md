@@ -4,7 +4,7 @@
 ## Python:
 
 
-• Naixement, creadors i evolució històrica.
+### • Naixement, creadors i evolució històrica.
 
 Python va apareixer per primer cop al 1991 i va ser creat per Guido van Rossum. 
  
