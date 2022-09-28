@@ -145,7 +145,7 @@ Al igual que en Python hi ha un gran nombre d'ofertes de feina.
 
 El llenguatge C va aparèixer per primer cop al 1972 i va ser creat per Dennis Ritchie.
 
-![alt text](.jpg) 
+![alt text](dennis.jpg) 
 
 ### • Característiques del llenguatge. 
 
