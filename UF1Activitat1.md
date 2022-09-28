@@ -20,7 +20,7 @@ Tot i que el seu punt fort és la programació orientada a objectes també es po
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
-
+------------------------------------------------
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
@@ -44,7 +44,7 @@ Inconvenients:
 
 • Principals entorns on es fa servir el llenguatge. 
 
-
+--------------------------------
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
