@@ -31,6 +31,7 @@ Python:
 • Naixement, creadors i evolució històrica.
  
 • Característiques del llenguatge. 
+
 ◦ Imperatiu, declaratiu, OOP... 
 
 ◦ Compilat, interpretat, híbrid... 
@@ -42,6 +43,7 @@ Python:
 • Principals entorns on es fa servir el llenguatge. 
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
@@ -55,6 +57,7 @@ Java:
 • Naixement, creadors i evolució històrica. 
 
 • Característiques del llenguatge. 
+
 ◦ Imperatiu, declaratiu, OOP... 
 
 ◦ Compilat, interpretat, híbrid... 
@@ -66,6 +69,7 @@ Java:
 • Principals entorns on es fa servir el llenguatge. 
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
@@ -79,6 +83,7 @@ C:
 • Naixement, creadors i evolució històrica. 
 
 • Característiques del llenguatge. 
+
 ◦ Imperatiu, declaratiu, OOP... 
 
 ◦ Compilat, interpretat, híbrid... 
@@ -90,6 +95,7 @@ C:
 • Principals entorns on es fa servir el llenguatge. 
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
@@ -103,6 +109,7 @@ Go:
 • Naixement, creadors i evolució històrica. 
 
 • Característiques del llenguatge. 
+
 ◦ Imperatiu, declaratiu, OOP... 
 
 ◦ Compilat, interpretat, híbrid... 
@@ -114,6 +121,7 @@ Go:
 • Principals entorns on es fa servir el llenguatge. 
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+
 ◦ Hola mòn (Molt fàcil de trobar) 
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
