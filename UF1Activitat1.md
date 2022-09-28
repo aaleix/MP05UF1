@@ -1,7 +1,7 @@
 # Activitat de recerca de llenguatges de programació
 
 
-Python:
+## Python:
 
 
 • Naixement, creadors i evolució històrica.
@@ -30,7 +30,7 @@ Python:
 
 [HelloWorldPython](https://www.learnpython.org/en/Hello,_World!) 
 
-Java:
+## Java:
 
 • Naixement, creadors i evolució històrica. 
 
@@ -56,7 +56,7 @@ Java:
 
 • WebGrafia
 
-C:
+## C:
 
 • Naixement, creadors i evolució històrica. 
 
@@ -82,7 +82,7 @@ C:
 
 • WebGrafia 
 
-Go:
+## Go:
 
 • Naixement, creadors i evolució històrica. 
 
