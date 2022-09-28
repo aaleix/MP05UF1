@@ -5,6 +5,8 @@
 
 
 • Naixement, creadors i evolució històrica.
+
+
  
 • Característiques del llenguatge. 
 
