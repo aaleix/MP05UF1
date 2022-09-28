@@ -15,6 +15,7 @@ Activitat de recerca de llenguatges de programació
 • Principals entorns on es fa servir el llenguatge.
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+
 ◦ Hola mòn (Molt fàcil de trobar)
  
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
