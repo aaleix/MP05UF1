@@ -12,6 +12,8 @@
 
 ◦ Imperatiu, declaratiu, OOP... 
 
+Tot i que el seu punt fort és la programació orientada a objectes també es pot fer servir la programació imperativa o funcional.
+
 ◦ Compilat, interpretat, híbrid... 
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
