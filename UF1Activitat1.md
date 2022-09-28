@@ -79,23 +79,65 @@ Java va apareixer per primer cop al 1996, el seu creador va ser James Gosling.
 
 ◦ Imperatiu, declaratiu, OOP... 
 
+Java és un llenguatge orientat a objectes.
+
 ◦ Compilat, interpretat, híbrid... 
+
+És un llenguatge interpretat.
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
+--------------------------------------------------------------------
+
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
+Avantatges:
+
+1.És multiplataforma.
+
+2.És relativament fàcil d'aprendre comparat amb altres.
+
+3.És un llenguatge segur. 
+
+Inconvenients:
+
+1.El rendiment en l'execució de programes pot ser lent.
+
+2.És un llenguatge que requereix més codi per realitzar les mateixes tasques.
+
+3.Requereix un espai de memòria significatiu.
+
 ### • Principals entorns on es fa servir el llenguatge. 
+
+-----------------------------------------------------
 
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
+`code` class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
+
+`code`  
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
+
+
 ### • WebGrafia
+
+[Ventatges i inconvenients 1](https://darabit.com/java/ventajas-y-desventajas-de-java/)
+
+[Ventatges i inconvenients 2](https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-java/)
+
+[Ventatges i inconvenients 3](https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html#:~:text=Ventajas%20y%20desventajas%20de%20programar%20en%20JAVA%201,el%20responsable%20de%20esa%20tarea.%20...%20M%C3%A1s%20elementos)
+
+[HelloWorldJava](https://www.programiz.com/java-programming/hello-world)
 
 ## C:
 
