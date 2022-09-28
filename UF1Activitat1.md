@@ -8,7 +8,7 @@
 
 Python va apareixer per primer cop al 1991 i va ser creat per Guido van Rossum. 
  
-• Característiques del llenguatge. 
+### • Característiques del llenguatge. 
 
 ◦ Imperatiu, declaratiu, OOP... 
 
@@ -42,11 +42,11 @@ Inconvenients:
 
 3.És lent.
 
-• Principals entorns on es fa servir el llenguatge. 
+### • Principals entorns on es fa servir el llenguatge. 
 
 --------------------------------
 
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
+### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
@@ -56,11 +56,11 @@ Inconvenients:
 
 `code` 
 
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
+### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
 He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar amb Python.
 
-• WebGrafia 
+### • WebGrafia 
 
 [HelloWorldPython](https://www.learnpython.org/en/Hello,_World!) 
 
