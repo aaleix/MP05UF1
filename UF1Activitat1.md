@@ -133,7 +133,22 @@ Els principals entorns on es fa servir Java són:
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-`code` 
+`code` import java.util.Scanner;
+
+public class HolaUser {
+
+    public static void main(String[] args) {
+        Scanner ent=new Scanner(System.in);
+
+        String nom;
+
+        nom= ent.nextLine();
+
+        System.out.println("Hola "+nom);
+
+
+    }
+}
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
