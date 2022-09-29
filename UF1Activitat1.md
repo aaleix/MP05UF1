@@ -214,25 +214,51 @@ Totes les ofertes que trobo al Infojobs són de C# o C++.
 
 ### • Naixement, creadors i evolució històrica. 
 
+Go és un llenguatge que va apareixer al 2009, va ser desenvolupat per Google i els seus dissenyadors inicials van ser Robert Griesemer, Rob Pike i Ken Thompson.
+
+![alt text](go.png)
+
 ### • Característiques del llenguatge. 
 
 ◦ Imperatiu, declaratiu, OOP... 
 
+
+
 ◦ Compilat, interpretat, híbrid... 
+
+
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
+------------------------------------------------
+
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
+
+
 
 ### • Principals entorns on es fa servir el llenguatge. 
 
+-----------------------------------------------
+
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
-◦ Hola mòn (Molt fàcil de trobar) 
+◦ Hola mòn (Molt fàcil de trobar)
+
+`code`import "fmt"
+
+func main() {
+	fmt.Println("Hello world")
+}
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
+
+
+### • Buscar com estan les ofertes de treball a Infojobs del llenguatge.
+
+
 
 ### • WebGrafia 
+
+[HelloWorldGo](https://go.dev/)
 
