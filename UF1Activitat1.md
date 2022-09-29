@@ -46,7 +46,13 @@ Inconvenients:
 
 ### • Principals entorns on es fa servir el llenguatge. 
 
---------------------------------
+Els principals entorns on es fa servir Python són:
+
+1.Anàlisi i visualització de dades.
+
+2.Desenvolupament web.
+
+3.Ensenyament de programació.
 
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
@@ -109,7 +115,11 @@ Inconvenients:
 
 ### • Principals entorns on es fa servir el llenguatge. 
 
------------------------------------------------------
+Els principals entorns on es fa servir Java són:
+
+1.Videojocs.
+
+2.Aplicacions mòvil.
 
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
@@ -123,7 +133,7 @@ Inconvenients:
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-`code`  
+`code` 
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
@@ -179,7 +189,11 @@ Inconvenients:
 
 ### • Principals entorns on es fa servir el llenguatge. 
 
------------------------------------------
+Els principals entorns on es fa servir C són:
+
+1.Crear programes de software per empresees.
+
+2.Videojocs.
 
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
@@ -252,7 +266,11 @@ Inconvenients:
 
 ### • Principals entorns on es fa servir el llenguatge. 
 
------------------------------------------------
+Els principals entorns on es fa servir Go són:
+
+1.Crear scripts.
+
+2.Desenvolupament web.
 
 ### • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat) 
 
