@@ -222,11 +222,11 @@ Go és un llenguatge que va apareixer al 2009, va ser desenvolupat per Google i 
 
 ◦ Imperatiu, declaratiu, OOP... 
 
-
+És un llenguatge orientat a objectes.
 
 ◦ Compilat, interpretat, híbrid... 
 
-
+És compilat.
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
@@ -234,7 +234,21 @@ Go és un llenguatge que va apareixer al 2009, va ser desenvolupat per Google i 
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
+Avantatges:
 
+1.És un llenguatge amb una sintaxis clara, neta i organitzada.
+
+2.Té un recol·lector automatic de basura.
+
+3.Temps de compilació ràpid.
+
+4.El seu rendiment és molt bo.
+
+Inconvenients:
+
+1.No admet herencia de tipus.
+
+2.No admet afirmacions.
 
 ### • Principals entorns on es fa servir el llenguatge. 
 
@@ -256,9 +270,11 @@ func main() {
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge.
 
-
+A Infojobs he trobat unes quantes ofertes de feina. Hi ha més demanda en Java i Python.
 
 ### • WebGrafia 
 
 [HelloWorldGo](https://go.dev/)
+[Avantatges Go](https://www.mytaskpanel.com/lenguaje-programacion-go/#:~:text=Caracter%C3%ADsticas%20de%20Go%201%20Simplicidad.%20Este%20lenguaje%20tiene,programas%20y%20librer%C3%ADas%20utiliz%C3%A1ndolo.%205%20Lenguaje%20compilado.%20)
+[Avantatges i inconvenients Go](https://www.codetd.com/es/article/12576086)
 
