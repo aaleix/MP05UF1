@@ -186,6 +186,16 @@ Al igual que en Python hi ha un gran nombre d'ofertes de feina.
 
 El llenguatge C va aparèixer per primer cop al 1972 i va ser creat per Dennis Ritchie.
 
+Al 1978 es va publicar la primera edició del llibre El llenguatge de programació C. En aquest llibre es van introduir noves característiques del llenguatge: els long int, els unsigned int, els operadors =+ i =- van ser sustituits per += i -=.
+
+A mitant dels anys 80 es va crear el llenguatge C++.
+
+Al 1988 es va publicar la segona edició del llibre El llenguatge de programació C.
+
+En anys posteriors es van començar a afegir al llenguatge C moltes característiques no oficials, que estaven en alguns compiladors i en altres no. Per aquesta rao al 1989 es va publicar el primer estàndar oficial C, el ANSI C.
+
+Al final dels 90 es va publicar l'estàndar C99.
+
 ![alt text](dennis.jpg) 
 
 ### • Característiques del llenguatge. 
