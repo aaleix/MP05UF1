@@ -216,7 +216,7 @@ Totes les ofertes que trobo al Infojobs són de C# o C++.
 
 Go és un llenguatge que va apareixer al 2009, va ser desenvolupat per Google i els seus dissenyadors inicials van ser Robert Griesemer, Rob Pike i Ken Thompson.
 
-![alt text](go.png)
+![alt text](go.jpg)
 
 ### • Característiques del llenguatge. 
 
