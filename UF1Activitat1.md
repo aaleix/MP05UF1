@@ -275,6 +275,8 @@ A Infojobs he trobat unes quantes ofertes de feina. Hi ha més demanda en Java i
 ### • WebGrafia 
 
 [HelloWorldGo](https://go.dev/)
+
 [Avantatges Go](https://www.mytaskpanel.com/lenguaje-programacion-go/#:~:text=Caracter%C3%ADsticas%20de%20Go%201%20Simplicidad.%20Este%20lenguaje%20tiene,programas%20y%20librer%C3%ADas%20utiliz%C3%A1ndolo.%205%20Lenguaje%20compilado.%20)
+
 [Avantatges i inconvenients Go](https://www.codetd.com/es/article/12576086)
 
