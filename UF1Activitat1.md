@@ -22,7 +22,7 @@ Tot i que el seu punt fort és la programació orientada a objectes també es po
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
-------------------------------------------------
+Sintaxis molt senzilla linees de codi fàcils de llegir i interpretar.
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
@@ -87,7 +87,7 @@ Java és un llenguatge orientat a objectes.
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
---------------------------------------------------------------------
+Els programes escrits en aquest llenguatge es poden executar en qualsevol tipus de hardware.
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
@@ -159,7 +159,7 @@ El llenguatge C va aparèixer per primer cop al 1972 i va ser creat per Dennis R
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
--------------------------------------------
+Incorpora interrupcions per poder montar una programació estructurada més senzilla.
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
@@ -230,7 +230,7 @@ Go és un llenguatge que va apareixer al 2009, va ser desenvolupat per Google i 
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
-------------------------------------------------
+Hi ha un recol·lector automàtic de basura.
 
 ◦ Avantatges i inconvenients respecte altres llenguatges. 
 
@@ -238,7 +238,7 @@ Avantatges:
 
 1.És un llenguatge amb una sintaxis clara, neta i organitzada.
 
-2.Té un recol·lector automatic de basura.
+2.Té un recol·lector automàtic de basura.
 
 3.Temps de compilació ràpid.
 
