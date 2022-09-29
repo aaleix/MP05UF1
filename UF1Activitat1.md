@@ -223,7 +223,7 @@ int main() {
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-`code`
+
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
