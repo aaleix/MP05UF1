@@ -8,6 +8,12 @@
 
 Python va apareixer per primer cop al 1991 i va ser creat per Guido van Rossum. 
 
+Al 1991 es va publicar la versió 0.9.0, aquesta ja presentava característiques com classes amb herencia o maneig d'excepcions.
+
+Al 1994 es va formar comp.lang.python, el principal foro de discusió de Python. Això va fer que el grup d'usuaris que usaven aquest llenguatge es fes més gran.
+
+A l'any 2000 es va canviar el seu domini de BeOpen.com per formar BeOpen PythonLabs.
+
 ![alt text](guido.jpg) 
  
 ### • Característiques del llenguatge. 
