@@ -85,6 +85,14 @@ He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar
 
 Java va apareixer per primer cop al 1996, el seu creador va ser James Gosling.
 
+Al 1997 apareix la versió 1.1. Es van incoporar al llenguatge varies classes que faltaven.
+
+En les seguents versions s'han fet avenços a l'hora de incluir APIs i suports d'XML.
+
+A la versió 1.7 s'introdueixen nous recol·lectors de basura.
+
+A la versió 1.8 s'obrin les portes a la programació funcional amb l'ús d'expressions Lambda i Streams. 
+
 ![alt text](gosling2.jpg) 
 
 ### • Característiques del llenguatge. 
@@ -169,6 +177,8 @@ Al igual que en Python hi ha un gran nombre d'ofertes de feina.
 [Avantatges i inconvenients 3](https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html#:~:text=Ventajas%20y%20desventajas%20de%20programar%20en%20JAVA%201,el%20responsable%20de%20esa%20tarea.%20...%20M%C3%A1s%20elementos)
 
 [HelloWorldJava](https://www.programiz.com/java-programming/hello-world)
+
+[Evolució Java](https://openwebinars.net/blog/que-es-java/)
 
 ## C:
 
