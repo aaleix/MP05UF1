@@ -64,11 +64,11 @@ Els principals entorns on es fa servir Python són:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-`code` print("Hola mòn");
+```code``` print("Hola mòn");
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-`code` nom=imput ("Quin es el teu nom?); print("hola "+ nom)
+```code``` nom=imput ("Quin es el teu nom?); print("hola "+ nom)
 
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
