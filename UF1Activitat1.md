@@ -64,16 +64,22 @@ Els principals entorns on es fa servir Python són:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-```code``` print("Hola mòn");
+``` 
+print("Hola mòn");
+```
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)
 
-```code``` nom=imput ("Quin es el teu nom?); print("hola "+ nom)
+```
+nom=input ("Quin es el teu nom?); print("hola "+ nom)
+```
 
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
 He estat buscant i hi ha bastantes ofertes de treball per gent que sap programar amb Python.
+
+Quantes??
 
 ### • WebGrafia 
 
@@ -139,15 +145,18 @@ Els principals entorns on es fa servir Java són:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-`code` class HelloWorld {
+```
+class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
 }
+```
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
-`code` import java.util.Scanner;
+```
+import java.util.Scanner;
 
 public class HolaUser {
 
@@ -163,10 +172,13 @@ public class HolaUser {
 
     }
 }
+```
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge. 
 
 Al igual que en Python hi ha un gran nombre d'ofertes de feina.
+
+Quantes? ?
 
 ### • WebGrafia
 
@@ -240,12 +252,14 @@ Els principals entorns on es fa servir C són:
 
 ◦ Hola mòn (Molt fàcil de trobar) 
 
-`code`#include <stdio.h>
+```
+#include <stdio.h>
 int main() {
 
    printf("Hello, World!");
    return 0;
 }
+```
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
@@ -317,19 +331,25 @@ Els principals entorns on es fa servir Go són:
 
 ◦ Hola mòn (Molt fàcil de trobar)
 
-`code`import "fmt"
+```
+import "fmt"
 
 func main() {
 	fmt.Println("Hello world")
 }
+```
 
 ◦ Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més) 
 
+```
+```
 
 
 ### • Buscar com estan les ofertes de treball a Infojobs del llenguatge.
 
 A Infojobs he trobat unes quantes ofertes de feina. Hi ha més demanda en Java i Python.
+
+Quantes??
 
 ### • WebGrafia 
 
