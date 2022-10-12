@@ -103,7 +103,7 @@ Java és un llenguatge orientat a objectes.
 
 ◦ Compilat, interpretat, híbrid... 
 
-És un llenguatge interpretat.
+És un llenguatge que utilitza màquina virtual.
 
 ◦ Principals novetats o aportacions respecte altres llenguatges. 
 
